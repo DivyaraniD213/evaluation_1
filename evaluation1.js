@@ -131,7 +131,6 @@ class Eights {
 
 } 
 
-
 function main() {
     const game = Eights;
     game.playGame();
